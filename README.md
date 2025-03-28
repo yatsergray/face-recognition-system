@@ -7,6 +7,10 @@ This project is a face recognition system that utilizes OpenCV and face\_recogni
 1. **face\_preparation.py** – Used to encode and store face data in a PostgreSQL database.
 2. **face\_recognition.py** – Captures video from a webcam, detects faces, and attempts to recognize them against stored face data.
 
+## Example of work
+
+![Example of work](not_single_face.gif)
+
 ## Features
 
 - Face encoding and storage in a PostgreSQL database.
